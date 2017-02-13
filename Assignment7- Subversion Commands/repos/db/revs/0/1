@@ -1,0 +1,25 @@
+id: 0-1.0.r1/0
+type: dir
+count: 0
+cpath: /Asteroids
+copyroot: 0 /
+
+PLAIN
+K 9
+Asteroids
+V 14
+dir 0-1.0.r1/0
+END
+ENDREP
+id: 0.0.r1/118
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 67 38 38 4339d81dba64ae9baa713668504b4836
+cpath: /
+copyroot: 0 /
+
+_0.0.t0-0 add-dir false false /Asteroids
+
+
+118 242

@@ -1,0 +1,64 @@
+id: 1-2.0.r2/0
+type: dir
+count: 0
+cpath: /Asteroids/branches
+copyroot: 0 /
+
+id: 3-2.0.r2/76
+type: dir
+count: 0
+cpath: /Asteroids/tags
+copyroot: 0 /
+
+id: 4-2.0.r2/149
+type: dir
+count: 0
+cpath: /Asteroids/trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 14
+dir 1-2.0.r2/0
+K 4
+tags
+V 15
+dir 3-2.0.r2/76
+K 5
+trunk
+V 16
+dir 4-2.0.r2/149
+END
+ENDREP
+id: 0-1.0.r2/336
+type: dir
+pred: 0-1.0.r1/0
+count: 1
+text: 2 224 99 99 0647a0ed2bf8a8738aa92f0dfd78e74c
+cpath: /Asteroids
+copyroot: 0 /
+
+PLAIN
+K 9
+Asteroids
+V 16
+dir 0-1.0.r2/336
+END
+ENDREP
+id: 0.0.r2/526
+type: dir
+pred: 0.0.r1/118
+count: 2
+text: 2 473 40 40 5e726cc2c6f7ec66e7031198ce1a73fe
+cpath: /
+copyroot: 0 /
+
+_1.0.t1-1 add-dir false false /Asteroids/branches
+
+_3.0.t1-1 add-dir false false /Asteroids/tags
+
+_4.0.t1-1 add-dir false false /Asteroids/trunk
+
+
+526 652
